@@ -95,7 +95,6 @@ class SearchResultContainer extends Component {
         </div>
 
         <div className="row">
-          {/* <div > */}
           <table className="table">
             <tr>
               <th scope="col">Photo</th>
