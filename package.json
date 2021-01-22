@@ -1,5 +1,5 @@
 {
-"name": "employeetracker",
+  "name": "employeetracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
